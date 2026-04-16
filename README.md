@@ -33,7 +33,7 @@ class KamalHamidi:
         self.location    = "Rabat, Morocco"
         self.languages   = ["Arabic 🇲🇦 (Native)", "French 🇫🇷 (Fluent)", "English 🇬🇧 (Fluent)"]
         self.passion     = ["Machine Learning", "Predictive Modeling", "AI Systems", "Big Data"]
-        self.goal        = "Seeking PFE internship to build impactful AI-powered solutions"
+        
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together 🚀")
